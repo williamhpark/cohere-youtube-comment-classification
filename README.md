@@ -1,4 +1,4 @@
-# Detecting Toxic and Benign YouTube Comments using the Cohere API
+# Detecting Toxic YouTube Comments using the Cohere API
 
 A script used to scrape comments from specified YouTube videos and classify each comment as either "Toxic" or "Benign" using [Cohere's classification API endpoint](https://docs.cohere.com/reference/classify).
 
